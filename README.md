@@ -1,4 +1,4 @@
-# UESTC Fine Figure Skating (FineFS) Dataset
+# Fine Figure Skating (FineFS) Dataset
 
 We collect a large-scale **Fine-grained Figure Skating dataset (FineFS)** involving RGB videos and estimated skeleton data, providing rich annotations for multiple downstream action analysis tasks. There are 1167 skating samples in our proposed FineFS dataset, annotated with fine-grained score labels, technical subaction category labels from coarse to fine, as well as the start and end time of technical subactions.
 
