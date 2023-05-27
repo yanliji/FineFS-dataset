@@ -80,7 +80,7 @@ All files are numbered 0-1166, where 0-728 is for short program and 729-1166 is 
 - **video features (1167 `.pkl` files with size of 955MB)**: We provide video features extracted by VST pretrained on the Kinetics-600 dataset for your convenience. Video features `.pkl` files are stored in the `data/video_features` directory.
 - **skeleton (1167 `.npz` files with size of 829MB)**: We extract 3D skeleton joints following athletes’ action in videos, and perform postprocessing for a further rectification on the skeleton sequences. Each skeleton frame has 17 joints described in camera space coordinate. Skeleton `.npz` files are stored in the `data/skeleton` directory.
 
-We have made the full dataset available on [[Baidu Drive]]() (extract number: hri6) and [[Google Drive]]().
+We have made the full dataset available on [[Baidu Drive]](https://pan.baidu.com/s/1ihV47FIgNhATm5g1XTcaNg) (extract number: hri6) and [[Google Drive]]().
 
 ****
 
