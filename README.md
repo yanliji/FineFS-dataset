@@ -6,7 +6,7 @@ We collect a large-scale **Fine-grained Figure Skating dataset (FineFS)** involv
 
 ## 1. Overview
 
-There are 1167 skating samples in our proposed FineFS dataset: 729 samples from short program and 438 samples from free skating; 570 samples are from male athletes and 597 samples are from female athletes. We split the dataset into training set and test set with 933 and 234 samples, respectively. Video length is around 2min40s for short program and 4min for free skating. The frame rate of videos is 25 frame/second. Tab. 1 clearly exhibits the statistics of our dataset.
+There are 1167 skating samples in our proposed FineFS dataset: 729 samples from the short program and 438 samples from free skating; 570 samples are from male athletes and 597 samples are from female athletes. The dataset is separated into a training set and a test set with 933 and 234 samples, respectively. Video length is around 2min40s for the short program and 4min for free skating. The frame rate is 25 frame/second in videos. Table. 1 clearly exhibits the statistics of our dataset.
 
 <div align=center><b>Table 1: Statistics of the FineFS dataset. M means male and F means female.</b></div>
 
@@ -85,5 +85,13 @@ We have made the full dataset available on [[Baidu Drive]](https://pan.baidu.com
 ****
 
 ## What's more
+Reference
+
+@inproceedings{JI2023FineFS,
+  title={Localization-assisted Uncertainty Score Disentanglement Network for Action Quality Assessment},
+  author={Yanli Ji and Lingfeng Ye and Huili Huang and Lijing Mao and Yang Zhou and Lingling Gao},
+  booktitle={ACM MM},
+  pages={1--10},
+  year={2023}}
 
 Please refer to the file `Appendix.pdf` for more details. If you have any questions about this dataset including wishing to evalute your algorithm on this dataset, feel free to contact us with e-mail [yanliji@uestc.edu.cn](yanliji@uestc.edu.cn). 
