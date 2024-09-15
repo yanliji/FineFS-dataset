@@ -94,4 +94,4 @@ We have made the full dataset available on [[Baidu Drive]](https://pan.baidu.com
 
 
 ## What's more
-Please refer to the file `Appendix.pdf` for more details. If you have any questions about this dataset including wishing to evaluate your algorithm on this dataset, feel free to contact us by e-mail [yanliji@uestc.edu.cn](yanliji@uestc.edu.cn). 
+Please refer to the file `Appendix.pdf` for more details. If you have any questions about this dataset including wishing to evaluate your algorithm on this dataset, feel free to contact us. 
